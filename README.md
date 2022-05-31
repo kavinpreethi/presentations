@@ -1,4 +1,4 @@
-# Kavin Narasimhan's
+# Kavin Narasimhan's Presentations
 A repo to collate and maintain my publicly shareable presentations
 
 ## Presentation 1
